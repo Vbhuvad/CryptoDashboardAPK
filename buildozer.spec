@@ -12,6 +12,8 @@ android.permissions = INTERNET
 android.api = 35
 android.minapi = 23
 android.accept_sdk_license = True
+p4a.fork = kivy
+p4a.branch = master
 
 [buildozer]
 log_level = 2
